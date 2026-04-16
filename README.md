@@ -432,8 +432,8 @@ Backend:  http://localhost:5000
 ## Deployment
 
 ### Live Links
-- **Frontend:** `https://your-frontend-url.vercel.app`
-- **Backend:** `https://your-backend-url.onrender.com`
+- **Frontend:** `https://user-management-system-rbac-frontend.onrender.com`
+- **Backend:** `https://user-management-system-rbac.onrender.com`
 
 
 
