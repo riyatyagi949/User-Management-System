@@ -135,7 +135,7 @@ This project solves that problem by implementing:
 - cors
 
 ### Deployment
-- Frontend: Vercel / Netlify
+- Frontend: Render
 - Backend: Render
 - Database: MongoDB Atlas
 
